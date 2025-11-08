@@ -1,0 +1,15 @@
+name: dm-amazon
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - pandas
+  - numpy
+  - scikit-learn
+  - pyarrow
+  - matplotlib
+  - tqdm
+  - pip
+  - pip:
+      - kaggle
