@@ -1,2 +1,2 @@
-# data-mining-amazon-books
+# Data Mining Amazon Books 
 Distributed Data Analysis and Mining 
